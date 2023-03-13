@@ -6,5 +6,5 @@ public class Go {
 		// TODO Auto-generated method stub
 		System.out.print("testing");
 	}
-
+//main
 }
